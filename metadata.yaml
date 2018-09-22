@@ -1,0 +1,28 @@
+_repo: Bolshevismi-ja-olot-Venajalla_55356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rauhala, K. N. (Kalle Nikodemus)
+    alias: Rauhala, Kalle Nikodemus
+    birthdate: 1887
+    deathdate: 1937
+    gutenberg_agent_id: '45997'
+    url: http://www.gutenberg.org/2009/agents/45997
+description: ''
+gutenberg_issued: '2017-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55356'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- Social conditions'
+- !lcsh 'Communism -- Soviet Union'
+- !lcc 'HX'
+- !lcsh 'Soviet Union -- History'
+- !lcc 'DK'
+- GITenberg
+title: Bolshevismi ja olot Venäjällä
+url: http://www.gutenberg.org/ebooks/55356
